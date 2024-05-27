@@ -2,4 +2,4 @@
 
 Portfolio made with HTML, CSS and JS.
 
-[My Portfolio](https://favianl.github.io/portfolio/)
+[My Portfolio](https://favianl.github.io/fcc-portfolio/)
